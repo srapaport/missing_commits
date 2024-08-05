@@ -1,1 +1,2 @@
 Adding feature 2 to the project
+Adding a patch to this feature
